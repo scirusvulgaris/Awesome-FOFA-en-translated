@@ -154,9 +154,7 @@ Most protocols contain only one key feature (also known as fingerprint), a few c
 ```plain
 banner="MikroTik"
 ```
-![7](
-
-https://github.com/FofaInfo/Awesome-FOFA/blob/b17f7b806332106dd3748ec4adabbd220549d540/Storage/Rule_cheatsheet/Picture7.png)
+![7](https://github.com/FofaInfo/Awesome-FOFA/blob/b17f7b806332106dd3748ec4adabbd220549d540/Storage/Rule_cheatsheet/Picture7.png)
 Through Google/Bing searches, it was found that MikroTik is a router manufacturer. This rule can confirm that the devices at these IP addresses use MikroTik routers.
 
 2. **Contains only the product category, as shown below.**
